@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Marieke
-- 👀 I’m interested in Front-End developer
-- 🌱 I’m currently learning Javascript and soon Angular
-- 💞️ I’m looking to collaborate on anything that I can learn from
