@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on the Oxygen Shop, that is availible in de repositories.  
   
 
-- 🌱 I’m currently learning JavaScript and in the future much more.   
+- 🌱 I’m currently learning JavaScript and React. In the future much more.   
   
 
 <br/>  
