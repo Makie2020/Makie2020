@@ -1,10 +1,8 @@
-### <div align="center">I'm Marieke, a aspiring junior full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Marieke, a junior full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on the Oxygen Shop, that is availible in de repositories.  
-  
-
-- 🌱 I’m currently learning JavaScript and React. In the future much more.   
+- 🔭 I’m currently working in OXYGEN as a Full Stack Developer.
+ 
   
 
 <br/>  
@@ -58,7 +56,7 @@
 <a href="https://github.com/Makie2020" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marieke-linneman-ba9a6062/" target="_blank">
+<a href="https://www.linkedin.com/in/marieke-linneman-ba9a6062/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
