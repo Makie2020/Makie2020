@@ -1,7 +1,7 @@
-### <div align="center">I'm Marieke, a junior full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Marieke, a Front End Developer👨‍💻 </div>  
   
 
-- 🔭 I’m currently working in OXYGEN as a Full Stack Developer.
+- 🔭 I’m currently working as a Front End Developer.
  
 
 ## 🌐 Socials:
